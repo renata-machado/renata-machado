@@ -1,8 +1,10 @@
-<div>
-  <a href="https://github.com/renata-machado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renata-machado&layout=compact&langs_count=16&theme=dracula"/>
-</div>
 
+![renata-machado's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renata-machado&theme=jolly&show_icons=true&hide_border=false&layout=compact)<br>
+![renata-machado's Stats](https://github-readme-stats.vercel.app/api?username=renata-machado&theme=jolly&show_icons=true&hide_border=false&count_private=true) 
+##
+
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--
 **renata-machado/renata-machado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
