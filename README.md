@@ -1,5 +1,8 @@
-Oii, Bem vindo ao meu perfil!
+# Oii, Bem vindo ao meu perfil!
+![](dog.gif)
+
 ##
+
 ![renata-machado's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renata-machado&theme=jolly&show_icons=true&hide_border=false&layout=compact)<br>
 ![renata-machado's Stats](https://github-readme-stats.vercel.app/api?username=renata-machado&theme=jolly&show_icons=true&hide_border=false&count_private=true) 
 ##
