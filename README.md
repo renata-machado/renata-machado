@@ -1,6 +1,5 @@
 # Oii, Bem vindo ao meu perfil!
-![dog]("YzAc.gif")
-
+<img src="https://media.tenor.com/lQ7ow7M095wAAAAi/toothless-dancing.gif" width="250">
 
 ##
 
