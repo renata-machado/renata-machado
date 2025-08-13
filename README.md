@@ -1,4 +1,10 @@
 # Oii, Bem vindo ao meu perfil!
+
+Renata Machado Barreto Braga<br>
+Técnica em Informática | IFES Campus Cachoeiro de Itapemirim<br>
+Cursando Sistemas de Informação | IFES Campus Cachoeiro de Itapemirim
+
+
 <img src="https://media.tenor.com/lQ7ow7M095wAAAAi/toothless-dancing.gif" width="250">
 
 ##
