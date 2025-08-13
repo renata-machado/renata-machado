@@ -5,12 +5,16 @@ Técnica em Informática | IFES Campus Cachoeiro de Itapemirim<br>
 Cursando Sistemas de Informação | IFES Campus Cachoeiro de Itapemirim
 
 
-<img src="https://media.tenor.com/lQ7ow7M095wAAAAi/toothless-dancing.gif" width="250">
-
-##
-
-![renata-machado's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renata-machado&theme=jolly&show_icons=true&hide_border=false&layout=compact)<br>
-##
+<table>
+  <tr>
+    <td>
+      <img src="https://media.tenor.com/lQ7ow7M095wAAAAi/toothless-dancing.gif" width="250">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renata-machado&theme=jolly&show_icons=true&hide_border=false&layout=compact">
+    </td>
+  </tr>
+</table>
 <!--
 **renata-machado/renata-machado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
